@@ -20,6 +20,6 @@ Novamente, por ainda estamos no processo de aprendizagem, muitas de nossas progr
 |------------|--------------------|---------------------------------------------------------------------------------------------------|
 | 1          | Arduino Mega 2560  | Microcontrolador que gerencia todas as nossas programações                                        |
 | 1          | HC-SR04            | Sensor ultrassônico utilizado para medir a distância até os objetos                               |
-| 1          | MPU 6050           | Acelerômetro e giroscópio de 3 eixos que utilizamos para medir as curvas que o robô deve realizar |
+| 1          | MPU6050            | Acelerômetro e giroscópio de 3 eixos que utilizamos para medir as curvas que o robô deve realizar |
 | 1          | Ponte H - L298N    | Driver que utilizamos para gerenciar os motores                                                   |
 | 2          | Motor EV3          | Motores que controlam a movimentação do nosso robô                                                |
